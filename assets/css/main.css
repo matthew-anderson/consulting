@@ -2562,7 +2562,7 @@
 				font-size: 1.25em;
 			}
 
-				.wrapper.style1 .icon.major:before {
+				.icon.major:before {
 					color: #333333;
 				}
 
@@ -3253,7 +3253,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #333333;
 		}
 
 		.wrapper.style1-alt {
